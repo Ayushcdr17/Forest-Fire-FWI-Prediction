@@ -134,9 +134,7 @@ git clone https://github.com/Ayushcdr17/Forest-Fire-FWI-Prediction.git
 cd Forest-Fire-FWI-Prediction
 
 ## 🖥️ Web App Preview
+![FWI Prediction App](ss.jpeg)
 
-<p align="center">
-  <img src="ss.jpeg" width="700"/>
-</p>
 
 
